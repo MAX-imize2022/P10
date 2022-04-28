@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "739244850448",
+    "project_id": " emotionaid-ce349",
+    "storage_bucket": "emotionaid-ce349.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739244850448:android:6da8ff9401568e06be3995",
+        "android_client_info": {
+          "package_name": "com.companyname.emotionaidproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739244850448-hnoms6e30dob6juv6fkjset5mk59mmvv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcYtmIy-J6KhSMfgT69b5uWWxEc2ADAAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739244850448-hnoms6e30dob6juv6fkjset5mk59mmvv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

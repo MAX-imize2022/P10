@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+    <TextView
+        android:text="Menu Option"
+        android:textAllCaps="false"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+    <Button
+        android:text="Login"
+        android:textAllCaps="false"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+       
+        android:id="@+id/btnLogin"
+        />
+    <Button
+        android:text="Settings"
+        android:textAllCaps="false"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+       
+        android:id="@+id/btnSettings"
+        />
+    <Button
+        android:text="Update"
+        android:textAllCaps="false"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+       
+        android:id="@+id/btnUpdate"
+        />
+    <Button
+        android:text="List"
+        android:textAllCaps="false"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+       
+        android:id="@+id/btnList"
+        />
+    <Button
+        android:text="Delete"
+        android:textAllCaps="false"
+       
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+       
+        android:id="@+id/btnDelete"
+        
+        />
+
+       <Button
+        android:text="Register"
+        android:textAllCaps="false"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+       
+        android:id="@+id/btnRegister"
+        
+        />
+
+
+</LinearLayout>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EmotionAidProject</string>
+    <string name="action_settings">Settings</string>
+
+  <string name="registerForm">Register Form</string>
+  
+</resources>
